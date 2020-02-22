@@ -1,0 +1,64 @@
+{
+    "items":{
+        "catA":[{
+        "Id": 0,
+        "Image":"bg-primary",
+        "Flavor":"Mint",
+        "Quatity": 1,
+        "Price":5.0},
+        {
+        "Id": 1,
+        "Image":"bg-secondary",
+        "Flavor":"blueberry",
+        "Quatity": 1,
+        "Price":6.0},
+        {
+        "Id": 2,
+        "Image":"bg-success",
+        "Flavor":"blueberrymint",
+        "Quatity": 1,
+        "Price":0.0},
+        {
+        "Id": 3,
+        "Image":"bg-danger",
+        "Flavor":"strawberry",
+        "Quatity": 1,
+        "Price":0.0},
+        {
+        "Id": 4,
+        "Image":"bg-warning",
+        "Flavor":"apple",
+        "Quatity": 1,
+        "Price":0.0
+        },
+        {
+        "Id": 5,
+        "Image":"bg-warning",
+        "Flavor":"apple",
+        "Quatity": 1,
+        "Price":0.0
+        },
+        {
+        "Id": 6,
+        "Image":"bg-warning",
+        "Flavor":"apple",
+        "Quatity": 1,
+        "Price":0.0
+        },
+        {
+        "Id": 7,
+        "Image":"bg-warning",
+        "Flavor":"apple",
+        "Quatity": 1,
+        "Price":0.0
+        }
+    ],
+    "catB":[{
+        "Id": 8,
+        "Image":"bg-primary",
+        "Flavor":"Mint",
+        "Quatity": 1,
+        "Price":5.0}
+    ]
+    }
+}
